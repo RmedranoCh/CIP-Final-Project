@@ -1,0 +1,1 @@
+Hi! I programmed this game using standard Tkinter so it can be run locally on any computer. Please download the space_invaders_cip.py file and run it on your local IDE (like VS Code or PyCharm) to see it working, as the Code in Place web terminal does not support Tkinter windows.
